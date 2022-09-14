@@ -32,5 +32,5 @@ function App() {
     </div>
   );
 }
-/*ppk**/
+
 export default App;
